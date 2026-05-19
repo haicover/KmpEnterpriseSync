@@ -1,2 +1,3 @@
-# KmpEnterpriseSync
-Ứng dụng di động đồng bộ hóa dữ liệu ngoại tuyến nâng cao dành cho nhân sự hiện trường.
+# KMP Enterprise Offline Synchronizer
+
+Ứng dụng Kotlin Multiplatform đa nền tảng.
